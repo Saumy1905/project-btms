@@ -14,8 +14,8 @@ Electric Vehicles (EVs) rely heavily on Lithium-ion battery packs, which are hig
 
 ### **2. Problem Statement**
 
-* **High Ambient Temperature Constraint:** In Indian summers, the ambient temperature () often reaches **45°C–50°C**.
-* **Inefficient Heat Transfer:** The maximum safe temperature for the battery () is approximately **60°C**. This results in a very small temperature difference () between the battery and the cooling air.
+* **High Ambient Temperature Constraint:** In Indian summers, the ambient temperature ($T_{amb}$) often reaches **45°C–50°C**.
+* **Inefficient Heat Transfer:** The maximum safe temperature for the battery ($T_{max}$) is approximately **60°C**. This results in a very small temperature difference ($\Delta T \approx 10^\circ C$) between the battery and the cooling air.
 * **Failure of Passive Air Cooling:** Conventional air cooling relies on a high  to remove heat. With  at 50°C, simple air cooling is insufficient to keep the battery below 60°C, necessitating a more advanced hybrid solution.
 
 ### **3. Proposed Solution (The Innovation)**
